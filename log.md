@@ -17,3 +17,10 @@ Watch this space...
 
 **Link(s) to work**
 https://github.com/san00/Twitchtv
+
+### Day 2:update
+
+**Today's Progress**: Got api call to work
+
+**Thoughts** It's always the little things that get you. Minor errors were causing the function to fail, ie: url missing ```/``` after ```/user``` and not iterating through array as I forgot the ```[i]```.
+Sometimes it's better to stop, leave it and/or ask for help, so you can see the problem with fresh eyes.
