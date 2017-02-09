@@ -7,3 +7,13 @@
 
 **Link(s) to work**
 https://github.com/san00/Twitchtv
+
+### Day 2: 9th Feb,
+
+**Today's Progress**: continued working on Twitchtv, making api call
+
+**Thoughts** Slight confusion with making the call to api, I could see objects being returned if I put url in browser but couldn't get my function to work, read and searched but eventually used FCC gitter help channel to help me resolve.
+Watch this space...
+
+**Link(s) to work**
+https://github.com/san00/Twitchtv
