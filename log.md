@@ -31,3 +31,16 @@ https://github.com/san00/Twitchtv
 **Thoughts** The function still needs work, as it's currently only displaying info from one user, although finally got some data to display correctly on page. 
 Forgot I had to use href's or src tags to view returned data correctly and struggled a bit before remembering this is what I had to do.
 
+### Day 4: 11th Feb,
+
+**Today's Progress**: Displaying user info and online status 
+
+**Thoughts** Got function to display online/offline status and channel info from all user's. 
+Took roughly 2-3 hrs, but it felt good to figure out a way to keep everything within a single function and get it to work. 
+Happy that my understanding of concepts and ways of thinking about and using JS is improving. Felt good to put existing knowledge to the test.
+
+The response in this post from user(marzelin) helped me understand what I was trying to do https://forum.freecodecamp.com/t/twitch-api-unexplained-random-array-and-getstream-api-help/82046/9
+
+**Link(s) to work**
+https://github.com/san00/Twitchtv
+
