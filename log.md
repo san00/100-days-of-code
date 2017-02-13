@@ -65,3 +65,10 @@ Next steps, work on page design/layout & refactor code.
 **Link(s) to work**
 https://github.com/san00/Twitchtv
 
+### Day 6:update
+
+**Today's Progress**: Completed core functionality and page design
+
+**Thoughts** Okay, so I did more than an hour today,which is not unusual and got the functionality and page design done. Need to view and test on other devices and finish some minor JS refactoring, but I'm happy to have finished with another project to show for my efforts 
+Onward & upward :)
+
