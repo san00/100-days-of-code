@@ -55,3 +55,13 @@ https://github.com/san00/Twitchtv
 https://github.com/san00/Twitchtv
 
 
+### Day 6: 12th Feb,
+
+**Today's Progress**: Click link to user channel/Show placeholder if account closed or never existed
+
+**Thoughts** Created the click link okay, although didn't get the placeholder to work. Checking the forum, it looks like it's due to changes with the twitch api.
+Next steps, work on page design/layout & refactor code.
+
+**Link(s) to work**
+https://github.com/san00/Twitchtv
+
