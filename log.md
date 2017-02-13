@@ -44,3 +44,14 @@ The response in this post from user(marzelin) helped me understand what I was tr
 **Link(s) to work**
 https://github.com/san00/Twitchtv
 
+
+### Day 5: 12th Feb,
+
+**Today's Progress**: Show placeholder if account closed or never existed 
+
+**Thoughts** played around a little but tired, so will work on it tomorrow.
+
+**Link(s) to work**
+https://github.com/san00/Twitchtv
+
+
