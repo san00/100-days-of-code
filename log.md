@@ -72,3 +72,16 @@ https://github.com/san00/Twitchtv
 **Thoughts** Okay, so I did more than an hour today,which is not unusual and got the functionality and page design done. Need to view and test on other devices and finish some minor JS refactoring, but I'm happy to have finished with another project to show for my efforts 
 Onward & upward :)
 
+### Day 7: 13th,
+
+**Today's Progress**: Worked on JS calculator functionality.  
+
+**Thoughts** Revisted my JS calc project and frustrated that I came no closer to figuring out how to chain the math functions until I hit equals. I know what to do in my head but so far haven't been able to get that into code. Arghhhhh. 
+
+Searching and looking for examples didn't help either, as so many ways to do this, code can vary a lot. 
+Was a bit deflated, but started looking at other projects I could do to keep building and design related inspiration to help with my project designs. 
+
+I should go back and clean up the code for the twitch project but was eager to keep moving and figuring out how to do the calc function.
+
+**Link(s) to work**
+https://github.com/san00/JavaScript-calculator
