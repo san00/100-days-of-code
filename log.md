@@ -69,8 +69,8 @@ https://github.com/san00/Twitchtv
 
 **Today's Progress**: Completed core functionality and page design
 
-**Thoughts** Okay, so I did more than an hour today,which is not unusual and got the functionality and page design done. Need to view and test on other devices and finish some minor JS refactoring, but I'm happy to have finished with another project to show for my efforts 
-Onward & upward :)
+**Thoughts** Okay, so I did more than an hour today, which is not unusual and got the functionality and page design done. Need to view and test on other devices and finish some minor JS refactoring, but I'm happy to have finished with another project to show for my efforts, 
+Onward & upward. :)
 
 ### Day 7: 13th,
 
@@ -85,3 +85,24 @@ I should go back and clean up the code for the twitch project but was eager to k
 
 **Link(s) to work**
 https://github.com/san00/JavaScript-calculator
+
+### Day 8: 14th,
+
+**Today's Progress**: Code cleanup(TwitchTv) and created Git page. 
+
+**Thoughts** Will finish cleanup tomorrow
+
+
+### Day 9: 15th,
+
+**Today's Progress**: Continued code cleanup and started looking at resources and potential node and react projects to build. 
+
+**Thoughts** Improved Twitchtv code readability. Would still like to improve overall page design. Will come back to this.
+
+
+**Link(s) to work**
+https://san00.github.io/Twitchtv/
+
+
+
+
