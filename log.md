@@ -103,6 +103,14 @@ https://github.com/san00/JavaScript-calculator
 **Link(s) to work**
 https://san00.github.io/Twitchtv/
 
+### Day 10: 16th,
+
+**Today's Progress**: FCC algo 
+
+**Thoughts** Used indexOf() and understood how it worked.
+
+**Link(s) to work**
+https://www.freecodecamp.com/san00
 
 
 
