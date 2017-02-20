@@ -105,12 +105,39 @@ https://san00.github.io/Twitchtv/
 
 ### Day 10: 16th,
 
-**Today's Progress**: FCC algo 
+**Today's Progress**: FCC algo -Diff two arrays
 
 **Thoughts** Used indexOf() and understood how it worked.
 
 **Link(s) to work**
 https://www.freecodecamp.com/san00
+
+### Day 11: 17th,
+
+**Today's Progress**: FCC algo - Wherefore art thou & Pig latin  
+
+**Thoughts** Struggled with both of these, got parts of Wherefore algo working, but need to better understand the hasOwnProperty() method & for Pig latin, got firts half but didn't quite manage a solution for moving consonants.
+Sometimes progress feels really slow. Need to practice.(sign up to coding sites)
+
+**Link(s) to work**
+https://www.freecodecamp.com/san00
+
+### Day 12: 20th,
+
+**Today's Progress**: Started a React/electron project, continued some work on calculator.
+
+**Thoughts** Frustrated by my lack of progress with the calculator project & algo's a few days ago, and slightly intimidated by the pomodoro project, I thought I'd try to learn about react instead. 
+
+Started following a tutorial to create a music player and although it looked manageable, found that I'm having problems setting up & using electron and getting various errors in the terminal, some I don't know how to resolve.
+
+Read various blogs & posts today that also helped to confused my thoughts about how to structure & continue my learning, as well as jumping from project to project which didn't help.
+Made minimal progress with anything today and need to turn this around. 
+
+Rant over.
+
+**Link(s) to work**
+
+
 
 
 
