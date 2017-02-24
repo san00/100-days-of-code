@@ -125,8 +125,8 @@ https://www.freecodecamp.com/san00
 ### Day 12: 20th,
 
 **Today's Progress**: 
-*Started a React/electron project, 
-*continued some work on calculator.
+* Started a React/electron project, 
+* continued some work on calculator.
 
 **Thoughts** Frustrated by my lack of progress with the calculator project & algo's a few days ago, and slightly intimidated by the pomodoro project, I thought I'd try to learn about react instead. 
 
