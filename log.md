@@ -160,12 +160,26 @@ https://www.codewars.com/users/san00
 * Cont some work on calculator functionality,
 
 **Thoughts** 
-Got some help from a code coach today and was able to better understand the logic of chaining the math in the calculator project. Happy I was able to complete this and other functionality, as it feels like a weight has been lifted after struggling with it for what felt like an age. yay.
+Got some help from a code coach today and was able to better understand the logic of chaining the math in the calculator project. Happy I was able to complete this functionality, as it feels like a weight has been lifted after struggling with it for what felt like an age. yay.
 
 Next step design.
 
 **Link(s) to work**
 https://san00.github.io/JavaScript-calculator/
 
+
+### Day 15: 23nd Feb,
+
+**Today's Progress**: 
+FCC algo's
+
+**Thoughts** 
+Happy to have finished my calculator project, I wanted to complete some of the intermediate algo's. 
+I did arrange to pair with someone, but the person was a no show, didn't even let me know and just wasted my time. Hasn't put me off but has made me cautious about randomly using the FCC gitter for things like this.
+
+Worked on Wherefore art thou and pig latin, neither completed, although passing some tests.
+
+**Link(s) to work**
+https://www.freecodecamp.com/san00
 
 
