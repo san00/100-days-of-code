@@ -152,5 +152,18 @@ Worked on calculator project, although still couldn't quite figure chaining the 
 **Link(s) to work**
 https://www.codewars.com/users/san00
 
+### Day 14: 22nd Feb,
+
+**Today's Progress**: 
+* Cont some work on calculator functionality,
+
+**Thoughts** 
+Got some help from a code coach today and was able to better understand the logic of chaining the math in the calculator project. Happy I was able to complete this and other functionality, as it feels like a weight has been lifted after struggling with it for what felt like an age. yay.
+
+Next step design.
+
+**Link(s) to work**
+https://san00.github.io/JavaScript-calculator/
+
 
 
