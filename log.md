@@ -138,6 +138,19 @@ Rant over.
 **Link(s) to work**
 
 
+### Day 13: 21st Feb,
+
+**Today's Progress**: 
+*	Completed some Codewars kata,
+* Cont some work on calculator functionality,
+* Cont React/electron project
+
+**Thoughts** 
+Had the most success today on codewars as I completed some kata. 
+Worked on calculator project, although still couldn't quite figure chaining the math and also revisted the React project, but had issue's with electron, so will leave and revist React again in the future.
+
+**Link(s) to work**
+https://www.codewars.com/users/san00
 
 
 
