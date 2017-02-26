@@ -197,3 +197,13 @@ https://forum.freecodecamp.com/t/javascript-calculator-project-with-testable-use
 http://codepen.io/osania/pen/MJpQRq
 
 
+### Day 17: 26th Feb,
+
+**Today's Progress**: 
+ UX/UI research - Calculator project
+
+**Thoughts** 
+Incorporating and documenting UX & UI processes in my projects, researched and outlined basic goals for case study.
+
+**Link(s) to work**
+https://san00.github.io/JavaScript-calculator/
