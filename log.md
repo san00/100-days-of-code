@@ -182,4 +182,18 @@ Worked on Wherefore art thou and pig latin, neither completed, although passing 
 **Link(s) to work**
 https://www.freecodecamp.com/san00
 
+### Day 16: 24th Feb,
+
+**Today's Progress**: 
+Checked calculator against guinea pig test suites.
+
+**Thoughts** 
+Having finished the calc project, I checked it against the FCC guniea pig test suites. Although it works and is fully functional, I was surprised when it didn't pass all tests.
+
+I understood why and will adjust code to get it passing. Shame I have to work with test suite in codepen for now. Deciding whether to keep project as is or change to comply with tests.
+https://forum.freecodecamp.com/t/javascript-calculator-project-with-testable-user-stories-guinea-pigs-needed/58941
+
+**Link(s) to work**
+http://codepen.io/osania/pen/MJpQRq
+
 
