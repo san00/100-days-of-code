@@ -200,10 +200,39 @@ http://codepen.io/osania/pen/MJpQRq
 ### Day 17: 26th Feb,
 
 **Today's Progress**: 
- UX/UI research - Calculator project
+ UX/UI research 
 
 **Thoughts** 
-Incorporating and documenting UX & UI processes in my projects, researched and outlined basic goals for case study.
+Incorporating and documenting UX & UI processes in my projects, researched and outlined basic goals for Calculator project case study.
 
 **Link(s) to work**
 https://san00.github.io/JavaScript-calculator/
+
+
+### Day 18: 27th Feb,
+
+**Today's Progress**: 
+ Research & Paper sketches
+
+**Thoughts** 
+Sketching helped me quickly see ways to improve the design & layout of my calculator.
+
+**Link(s) to work**
+https://san00.github.io/JavaScript-calculator/
+
+
+### Day 19: 28th Feb,
+
+**Today's Progress**: 
+ * Algo Pair programming 
+ * Updating calc design
+
+**Thoughts** 
+Enjoyed pair programming and completed another algo. 
+Started rejigging calc project with flexbox. May take a little longer than first thought due to how I want the layout and my current knowledge of flexbox. 
+
+**Link(s) to work**
+
+ https://www.freecodecamp.com/san00
+ 
+ https://san00.github.io/JavaScript-calculator/
