@@ -236,3 +236,15 @@ Started rejigging calc project with flexbox. May take a little longer than first
  https://www.freecodecamp.com/san00
  
  https://san00.github.io/JavaScript-calculator/
+ 
+ 
+ ### Day 22: 7th March,
+
+**Today's Progress**: 
+ Started pomodoro project. 
+
+**Thoughts** 
+Created baisc layout.
+
+**Link(s) to work**
+https://github.com/san00/Pomodoro-clock
