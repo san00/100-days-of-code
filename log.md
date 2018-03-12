@@ -1,3 +1,30 @@
+# #100DaysOfCode Log - Round 2 - 
+
+#100DaysOfCodeR2 challenge. Started on [Monday, March 12, 2018].
+
+## Log
+
+### R2D1 
+Continued to work on my image search abstraction layer. [FCC](https://www.freecodecamp.org/challenges/image-search-abstraction-layer) backend project. 
+
+I'm connecting to my database; saving & retrieving. Next step, figuring out how to connect the Google cse to paginate through responses. 
+https://abstraktion.glitch.me/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
 
