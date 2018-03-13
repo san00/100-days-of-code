@@ -11,7 +11,8 @@ I'm connecting to my database; saving & retrieving. Next step, figuring out how 
 https://abstraktion.glitch.me/
 
 
-
+### R2D2
+Continued working on the image searcher project. Found the Google cse documentation confusing. Will look for more info and/or help to understand this.
 
 
 
