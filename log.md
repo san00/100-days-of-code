@@ -21,7 +21,9 @@ Have asked for help on forums and will see how I get on. https://abstraktion.gli
 ### R2D4
 No progress, still looking for an answer.
 
-
+### R2D5
+Word of the day - Stuck  
+https://twitter.com/sancodes
 
 
 
