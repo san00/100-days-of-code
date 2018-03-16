@@ -18,11 +18,8 @@ Continued working on the image searcher project. Found the Google cse documentat
 Still working on the image searcher project. Didn't get much further today, as don't understand how to connect the cse to the app. I thought using a node package might work, but don't understand how to use that for what I need either.
 Have asked for help on forums and will see how I get on. https://abstraktion.glitch.me/
 
-
-
-
-
-
+### R2D4
+No progress, still looking for an answer.
 
 
 
