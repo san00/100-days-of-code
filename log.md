@@ -25,7 +25,9 @@ No progress, still looking for an answer.
 Word of the day - Stuck  
 https://twitter.com/sancodes
 
-
+### R2D6
+Spent more time looking for answers than coding. It's time to move on. Will seek help at codebar. 
+https://twitter.com/sancodes
 
 
 # 100 Days Of Code - Log
