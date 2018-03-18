@@ -29,6 +29,13 @@ https://twitter.com/sancodes
 Spent more time looking for answers than coding. It's time to move on. Will seek help at codebar. 
 https://twitter.com/sancodes
 
+### R2D7
+Although I haven't found an answer to the issue I'm having, I've managed to find a few examples of project code, that might help to give me an idea of where I'm going wrong. 
+
+Although I'm still getting errors and not quite there, seeing the way api calls have been constructed by others, gives me hope that I'm not too far off being able to resolve this. 
+
+I haven't given up yet, although came close. lol
+https://twitter.com/sancodes
 
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
