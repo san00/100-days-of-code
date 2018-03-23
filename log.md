@@ -42,7 +42,7 @@ Getting demotivated. Looking for inspiration.
 
 ### R2D9
 No joy with it yet.
-``` "And still I rise" - Mya Angelou ``` 
+``` "And still I rise" - Maya Angelou ``` 
 
 ### R2D10
 Got help from a coach today and made progress. I connected to the custom search API and returned some JSON. 
