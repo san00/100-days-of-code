@@ -37,6 +37,31 @@ Although I'm still getting errors and not quite there, seeing the way api calls 
 I haven't given up yet, although came close. lol
 https://twitter.com/sancodes
 
+### R2D8
+Getting demotivated. Looking for inspiration.
+
+### R2D9
+No joy with it yet.
+``` "And still I rise" - Mya Angelou ``` 
+
+### R2D10
+Got help from a coach today and made progress. I connected to the custom search API and returned some JSON. 
+Apparently, I wasn't far off a solution but when you don't know you just don't know. Was good to bounce off someone else. 
+
+Learnt how to use the [node https method](https://nodejs.org/api/https.html#https_https_get_options_callback) and banished that feeling of imposter syndrome. 
+
+### R2D11
+Currently getting a one big blob of json data, so I'm working out how to return the image URL'S & alt text as per the FCC example. I know I'll have to iterate through the data, I just need to make it work. 
+
+### R2D12
+Hoorah, success. I managed to returned the search results (URLS'S & alt text) as per the example. Had to set up an object, iterate through the data and return it. 
+
+ These helped me [here](https://davidwalsh.name/nodejs-http-request) & [here](https://github.com/chemok78/image-search-layer/blob/master/api/search.js)
+ 
+ https://abstraktion.glitch.me/ & https://twitter.com/sancodes
+
+
+
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
 
