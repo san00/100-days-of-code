@@ -60,7 +60,20 @@ Hoorah, success. I managed to returned the search results (URLS'S & alt text) as
  
  https://abstraktion.glitch.me/ & https://twitter.com/sancodes
 
+### R2D13
+-
 
+### R2D14
+-
+### R2D15
+**Progress** - Image search abstraction fully functional. Connected API & database, so now able to save and retrieve searchterms. Cleaned up my code, although more refactoring could be done and the front end needs some work.
+
+**Thoughts** -
+A complex project with lots of things that needed to be done. Happy that I was able to resolve the issues I had and feel like I'm learning & understanding more about Node, express & the backend.
+
+Would like to move away from glitch to get a feel for setting things up locally & the headaches that may bring. Just deciding whether to do more backend projects or take a break and do some front end.
+
+ https://abstraktion.glitch.me
 
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
