@@ -75,6 +75,11 @@ Would like to move away from glitch to get a feel for setting things up locally 
 
  https://abstraktion.glitch.me
 
+### R2D16
+
+Updated app front end & readme. 
+
+
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
 
