@@ -76,8 +76,25 @@ Would like to move away from glitch to get a feel for setting things up locally 
  https://abstraktion.glitch.me
 
 ### R2D16
+Updated app front end & readme. https://abstraktion.glitch.me
 
-Updated app front end & readme. 
+### R2D17
+**Thoughts** Uninspired by the backend voting app (fcc), decided to practice some front end & draw with [100 days of css](https://100dayscss.com/) - Picked #95 the pig, looking forward to having fun with this.
+
+### R2D18
+Half way with my little piggy#95 - Learning more about positioning & looking forward to making the eyes blink.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 100 Days Of Code - Log
