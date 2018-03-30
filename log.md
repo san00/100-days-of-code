@@ -87,6 +87,8 @@ Half way with my little piggy#95 - Learning more about positioning & looking for
 ### R2D19
 
 **Today's Progress**: Completed my little pig css drawing.
+![screenshot-2018-3-30 100 days of css 95 - little piggy](https://user-images.githubusercontent.com/14879253/38150563-6b510280-3457-11e8-95e0-9ad2768bb290.png)
+
 
 **Thoughts**
 The ears were a little tricky, but felt good to finish the drawing and have it look like the charcter intended. Still need to animate the eyes, but learnt more about creating shapes & positioning. Next, adding the animation.  
