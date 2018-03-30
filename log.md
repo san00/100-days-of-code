@@ -84,12 +84,12 @@ Updated app front end & readme. https://abstraktion.glitch.me
 ### R2D18
 Half way with my little piggy#95 - Learning more about positioning & looking forward to making the eyes blink.
 
+### R2D19
 
+**Today's Progress**: Completed my little pig css drawing.
 
-
-
-
-
+**Thoughts**
+The ears were a little tricky, but felt good to finish the drawing and have it look like the charcter intended. Still need to animate the eyes, but learnt more about creating shapes & positioning. Next, adding the animation.  
 
 
 
