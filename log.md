@@ -93,11 +93,17 @@ Half way with my little piggy#95 - Learning more about positioning & looking for
 **Thoughts**
 The ears were a little tricky, but felt good to finish the drawing and have it look like the charcter intended. Still need to animate the eyes, but learnt more about creating shapes & positioning. Next, adding the animation.  
 
+### R2D20
 
+**Today's Progress**: CSS little pig - added blinking animation effect on the eyes. Although not quite perfect, it works. 
+My pig is alive.
 
+**Thoughts** Looking at the original code, I can see an ease-in-out effect was used with a transform scale(Y) specified in keyframes. The blink effect I used is not quite as smooth and uses an opacity change rather than rescaling along the verticle axis as per the original code. The original also uses a before and after state to block out the pupils and I'll have to read up a bit more on this. 
+All in all, I've had fun and learnt a lot whilst creating my first finished CSS drawing. 
 
+[See it live here](https://codepen.io/san00/full/dmdxqX/)
 
-
+https://twitter.com/sancodes
 
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
