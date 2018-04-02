@@ -105,6 +105,12 @@ All in all, I've had fun and learnt a lot whilst creating my first finished CSS 
 
 https://twitter.com/sancodes
 
+### R2D21
+Tried to redo blinking effect with ease-in-out animation's but couldn't get it working. Will ask someone.
+
+### R2D22 
+Started with react today.
+
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
 
