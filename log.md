@@ -116,6 +116,28 @@ Continuing to learn via React tutorial & although I don't understand everything,
 
 ![screenshot-2018-4-10 tic tac toe](https://user-images.githubusercontent.com/14879253/38575958-9a407bd4-3cf4-11e8-8c5c-57413e28a677.png)
 
+### R2D26
+Spent more time looking for something to build than coding today. Dissapointed.
+
+### R2D27
+Building to learn using [React, React Router & React bootstrap.](https://www.youtube.com/watch?v=jgVkR5EKI68)
+
+### R2D28
+Learning more about components
+
+### R2D29
+Learning more about Routing
+
+### R2D30
+Learning more about layout. Say hello to my latest [WIP]
+
+![screenshot-2018-4-10 react app](https://user-images.githubusercontent.com/14879253/38577997-7f9aa560-3cfa-11e8-951c-1a580017328e.png)
+
+
+ using [this](http://www.free-css.com/free-css-templates/page225/shift) as inspiration.
+
+
+
 
 
 # 100 Days Of Code - Log
