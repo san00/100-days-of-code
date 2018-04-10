@@ -111,6 +111,13 @@ Tried to redo blinking effect with ease-in-out animation's but couldn't get it w
 ### R2D22 
 Started with react today.
 
+### R2D23, R2D24, R2D25
+Continuing to learn via React tutorial & although I don't understand everything, I've built my first tic tac toe game. Whoop whoop!
+
+![screenshot-2018-4-10 tic tac toe](https://user-images.githubusercontent.com/14879253/38575958-9a407bd4-3cf4-11e8-8c5c-57413e28a677.png)
+
+
+
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
 
