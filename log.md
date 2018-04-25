@@ -137,8 +137,14 @@ Learning more about layout. Say hello to my latest [WIP]
  using [this](http://www.free-css.com/free-css-templates/page225/shift) as inspiration.
 
 
+### R2D31 - R2D43
+Still learning & building with React.
 
+### R2D44
+Figuring out how to use components within components to create a layout for my homepage. Asked for help & although didn't solve my issue, I got some info that might help.
 
+### R2D45
+Success! Managing to reuse components within components. Created my homepage layout & my very first website with react. 
 
 # 100 Days Of Code - Log
 ### Day 1: Feb 8, Weds
